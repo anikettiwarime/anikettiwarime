@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikettiwarime&show_icons=true&locale=en" alt="anikettiwarime" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikettiwari16&" alt="anikettiwarime" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikettiwarime&" alt="anikettiwarime" /></p>
