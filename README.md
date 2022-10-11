@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" width="400" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8,quality-100/20210706_developer-economy_01.jpg" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikettiwari16&label=Profile%20views&color=0e75b6&style=flat" alt="anikettiwari16" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikettiwarime&label=Profile%20views&color=0e75b6&style=flat" alt="anikettiwarime" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aniketttiwari" target="blank"><img src="https://img.shields.io/twitter/follow/aniketttiwari?logo=twitter&style=for-the-badge" alt="aniketttiwari" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C,C++,Python,ML,Backend Development**
 
-- 📫 How to reach me **anikettiwari1570@gmail.com**
+- 📫 How to reach me **📧**
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/aniketttiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketttiwari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniket1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket1603" height="30" width="40" /></a>
-<a href="https://kaggle.com/anikettiwari16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anikettiwari16" height="30" width="40" /></a>
+<a href="https://kaggle.com/anikettiwarime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anikettiwarime" height="30" width="40" /></a>
 <a href="https://instagram.com/oye._.aniket/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oye._.aniket/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anikettiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anikettiwari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anikettiwari1570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anikettiwari1570" height="30" width="40" /></a>
